@@ -45,7 +45,7 @@ Steps to create a similar web server from scratch:
 39. Add advanced view engine features - conditionals statements and loops
 40. Introduce user information during view rendering
 
-Potential Tasks:
+Potential Tasks :
 - Introduce model state and automatic validation
 - Cache
 - Include the view files into the assemblies
